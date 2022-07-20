@@ -1,0 +1,12 @@
+database online
+database : DB name : id19287910_gudang -  DB User : id19287910_gudang1
+password : M+X5INq\JXBJ/PiO - admin123
+
+website : richeesefactory.000webhostapp.com
+domain : richeesefactory.webhost.com
+
+host name : files.000webhost.com
+port : 21
+username : richeesefactory
+password : admin123
+Server: localhost:3306
