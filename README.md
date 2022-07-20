@@ -23,4 +23,4 @@ Langkah-langkah untuk menjalankan website STOK BARANG DATANG dan KELUAR RICHEESE
 username : reza
 password : admin123
 
-website online : richeesefactory.000webhostapp.com
+website online : https://richeesefactory.000webhostapp.com
